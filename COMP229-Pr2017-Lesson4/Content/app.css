@@ -1,0 +1,12 @@
+﻿/*Custome Css*/
+
+body { 
+    padding-bottom: 70px; 
+}
+footer{
+    color:white;
+}
+.navbar-brand {
+  font-family: 'Meie Script', cursive;
+  color:maroon;
+}
